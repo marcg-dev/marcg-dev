@@ -1,4 +1,7 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello, I'm Marcelo!
+### Hello, I'm Marcelo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+
+
+<img src="https://media.giphy.com/media/MCOjEND5u6PGVFCnOE/giphy.gif" width="200px">
 
 💻 &nbsp; Developer Full Stack at [Corsair](https://suporte-corsair.com.br/)<br>
 📕 &nbsp; In love in UX Design and UI Design <br>
@@ -9,6 +12,7 @@
 ### 📕 &nbsp; Latest courses
 
 - [SQL Curso Pratico](https://github.com/marc-go/SQLCursoPratico)
+
 
 <!---
 marc-go/marc-go is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
