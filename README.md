@@ -11,7 +11,14 @@
 
 ### 📕 &nbsp; Latest courses
 
-- [SQL Curso Pratico](https://github.com/marc-go/SQLCursoPratico)
+- [SQL Curso Pratico](https://github.com/marc-go/SQLCursoPratico) (2022)
+
+
+### :ticket: &nbsp; Events and bootcamps
+- [<NLW /> COPA 2022 - Rocketseat](https://github.com/marcg-dev/nlwcopa2022) (2022)
+
+### :green_book: &nbsp; Books i'm reading
+- [UX Research: Practical Techniques for Designing Better Products](https://www.amazon.com.br/UX-Research-Brad-Nunnally/dp/149195129X) (2022)
 
 
 <!---
