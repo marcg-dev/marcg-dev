@@ -10,13 +10,20 @@
 📫 &nbsp; How to reach me: marc.rgo@gmail.com <br>
 🏡 &nbsp; Brazilian, Based in Recife, PE
 
+---
+
+&#xa0;
+
 ### 📕 &nbsp; Latest courses
 
-- [SQL Curso Pratico](https://github.com/marc-go/SQLCursoPratico) (2022)
+- [Practical SQL Course](https://github.com/marc-go/SQLCursoPratico) (2022)
 
+&#xa0;
 
 ### :ticket: &nbsp; Events and bootcamps
-- [<NLW /> COPA 2022 - Rocketseat](https://github.com/marcg-dev/nlw-copa-2022) (2022)
+- [< NLW /> 2022 CUP - Rocketseat](https://github.com/marcg-dev/nlw-copa-2022) (2022)
+
+&#xa0;
 
 ### :green_book: &nbsp; Books i'm reading
 - [UX Research: Practical Techniques for Designing Better Products](https://www.amazon.com.br/UX-Research-Brad-Nunnally/dp/149195129X) (2022)
