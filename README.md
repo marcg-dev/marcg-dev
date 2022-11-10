@@ -5,7 +5,8 @@
 
 💻 &nbsp; Developer Full Stack at [Corsair](https://suporte-corsair.com.br/)<br>
 📕 &nbsp; In love in UX Design and UI Design <br>
-🌱 &nbsp; I’m currently learning React and SQL<br>
+🌱 &nbsp; I’m currently learning SQL<br>
+:shipit: &nbsp; I'm specializing in [React](https://github.com/facebook/react/) <br>
 📫 &nbsp; How to reach me: marc.rgo@gmail.com <br>
 🏡 &nbsp; Brazilian, Based in Recife, PE
 
