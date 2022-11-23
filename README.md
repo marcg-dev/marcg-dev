@@ -21,6 +21,7 @@
 &#xa0;
 
 ### :ticket: &nbsp; Events and bootcamps
+- [DevProcess Event - CodeBoost](https://github.com/marcg-dev/DevProcessCodeBoostGodOfWar) (2022)
 - [< NLW /> 2022 CUP - Rocketseat](https://github.com/marcg-dev/nlw-copa-2022) (2022)
 
 &#xa0;
